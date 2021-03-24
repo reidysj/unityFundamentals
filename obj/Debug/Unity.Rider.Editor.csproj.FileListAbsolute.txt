@@ -1,0 +1,2 @@
+C:\Users\sjrei\Documents\projects\Unity Fundamentals\obj\Debug\Unity.Rider.Editor.csprojAssemblyReference.cache
+C:\Users\sjrei\Documents\projects\Unity Fundamentals\obj\Debug\Unity.Rider.Editor.csproj.CoreCompileInputs.cache
